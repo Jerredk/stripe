@@ -1,5 +1,5 @@
 # Stripe Promotion Code Generator
-#### Video Demo:  <[URL HERE](https://youtu.be/EorBaIAYRBg)>
+#### Video Demo:  <[https://youtu.be/EorBaIAYRBg](https://youtu.be/EorBaIAYRBg)>
 #### Description:
 The **Stripe Promotion Code Generator** is a command-line interface tool to help *non-technical* individuals to bulk generate promotion codes in Stripe.
 ##### How does it work
